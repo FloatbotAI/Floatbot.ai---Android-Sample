@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="push_sender_id">Set your id here</string>
+</resources>
