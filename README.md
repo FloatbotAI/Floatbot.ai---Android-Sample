@@ -62,10 +62,9 @@ FloatBot.updatePushToken(this,push_token);
 
 ```
 
-Modiy your onMessageReceived function in GcmListenerService class
+Modify your onMessageReceived function in GcmListenerService class
 
 ```
-
 @Override
 public void onMessageReceived(String s, Bundle bundle) {
   super.onMessageReceived(s, bundle);
